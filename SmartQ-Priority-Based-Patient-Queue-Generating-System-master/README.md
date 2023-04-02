@@ -1,11 +1,5 @@
 # SmartQ - Priority Based Patient Queue Generating System
 
-## DEVELOPERS
-
-- SAI HARSHA VARMA
-- HRITHIK PURWAR
-- KARTIKEYA RAWAT
-
 ![image](https://user-images.githubusercontent.com/77988385/228392865-eaae5364-d09b-4ee3-b231-a63b589cf3f8.png)
 
 
@@ -103,7 +97,7 @@ Our proposed solution involves the implementation of a comprehensive scheduling 
 
 ## GITHUB REPOSITORY
 
-#### [Github Repo Link](https://github.com/saiharshavarma/Makeathon)
+#### [Github Repo Link](https://github.com/PriyankaKumari-2002/SmartQ-VIT--Automated-Priority-Based-Patient-Queue-Generating-System)
 
 
 ## REVENUE MODEL
